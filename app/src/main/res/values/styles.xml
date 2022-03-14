@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RobotoTitle">
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Title</item>
+    </style>
+
+    <style name="robotoSmall">
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Small</item>
+    </style>
+
+    <style name="robotoCaption">
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Caption</item>
+    </style>
+
+    <style name="LineaAmarilla">
+        <item name="android:background">@color/colorAmarillo</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">2dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+    <style name="RobotoButton">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Button</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+
+</resources>
